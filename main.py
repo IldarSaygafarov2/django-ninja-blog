@@ -53,3 +53,4 @@
 # putty
 
 # nginx - проксирует запросы
+# nginx, supervisor
